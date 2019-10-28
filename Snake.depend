@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1470440040 source:c:\users\user\desktop\coding\practise\project\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+
+1470384061 source:c:\users\user\desktop\coding\practise\project\snake\settings.c
+	<stdio.h>
+	<windows.h>
+
+1470865429 c:\users\user\desktop\coding\practise\project\snake\header.h
+
+1470355710 source:c:\users\user\desktop\coding\practise\project\snake\aboutus.c
+	<stdio.h>
+	<windows.h>
+
+1470383982 source:c:\users\user\desktop\coding\practise\project\snake\highscores.c
+	<stdio.h>
+	<windows.h>
+
+1470865767 source:c:\users\user\desktop\coding\practise\project\snake\arcade.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+
+1476617005 source:c:\users\user\desktop\coding\practise\project\snake my\aboutus.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+	<time.h>
+
+1477941224 source:c:\users\user\desktop\coding\practise\project\snake my\arcade.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"header.h"
+
+1476617024 c:\users\user\desktop\coding\practise\project\snake my\header.h
+
+1477941373 source:c:\users\user\desktop\coding\practise\project\snake my\highscores.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+	<time.h>
+
+1476617005 source:c:\users\user\desktop\coding\practise\project\snake my\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+	<time.h>
+
+1476617005 source:c:\users\user\desktop\coding\practise\project\snake my\settings.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+	<time.h>
+
